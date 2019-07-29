@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xaiow2\\source\\repos\\PersonalSite001\\PersonalSite001.csproj": {}
+    "C:\\Users\\xaiow2\\Documents\\GitHub\\test001\\PersonalSite001\\PersonalSite001.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xaiow2\\source\\repos\\PersonalSite001\\PersonalSite001.csproj": {
+    "C:\\Users\\xaiow2\\Documents\\GitHub\\test001\\PersonalSite001\\PersonalSite001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xaiow2\\source\\repos\\PersonalSite001\\PersonalSite001.csproj",
+        "projectUniqueName": "C:\\Users\\xaiow2\\Documents\\GitHub\\test001\\PersonalSite001\\PersonalSite001.csproj",
         "projectName": "PersonalSite001",
-        "projectPath": "C:\\Users\\xaiow2\\source\\repos\\PersonalSite001\\PersonalSite001.csproj",
+        "projectPath": "C:\\Users\\xaiow2\\Documents\\GitHub\\test001\\PersonalSite001\\PersonalSite001.csproj",
         "packagesPath": "C:\\Users\\xaiow2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xaiow2\\source\\repos\\PersonalSite001\\obj\\",
+        "outputPath": "C:\\Users\\xaiow2\\Documents\\GitHub\\test001\\PersonalSite001\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
