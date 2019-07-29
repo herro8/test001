@@ -1,13 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.28803.452
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonalSite001", "PersonalSite001.csproj", "{511E3AB2-6733-4E8A-B78B-8A38218DBCC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sheng.SQLite.Plus", "Sheng.SQLite.Plus\Sheng.SQLite.Plus.csproj", "{FB43102A-6192-4690-851D-07916D0ECDB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sheng.SQLite.Plus", "..\Sheng.SQLite.Plus-master\Sheng.SQLite.Plus\Sheng.SQLite.Plus.csproj", "{FB43102A-6192-4690-851D-07916D0ECDB2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sheng.SQLite.Plus.Demo", "..\Sheng.SQLite.Plus-master\Sheng.SQLite.Plus.Demo\Sheng.SQLite.Plus.Demo.csproj", "{4B8E273F-AF25-43F4-BDF0-77988B790E43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sheng.SQLite.Plus.Demo", "Sheng.SQLite.Plus.Demo\Sheng.SQLite.Plus.Demo.csproj", "{4B8E273F-AF25-43F4-BDF0-77988B790E43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{511E3AB2-6733-4E8A-B78B-8A38218DBCC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{511E3AB2-6733-4E8A-B78B-8A38218DBCC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{511E3AB2-6733-4E8A-B78B-8A38218DBCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{511E3AB2-6733-4E8A-B78B-8A38218DBCC1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FB43102A-6192-4690-851D-07916D0ECDB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FB43102A-6192-4690-851D-07916D0ECDB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB43102A-6192-4690-851D-07916D0ECDB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -30,8 +24,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7E13E6D9-76C5-4FBD-BBBE-F5E41D89961C}
 	EndGlobalSection
 EndGlobal
