@@ -29,7 +29,11 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\xaiow2\\Documents\\GitHub\\test001\\Sheng.SQLite.Plus-master\\Sheng.SQLite.Plus\\Sheng.SQLite.Plus.csproj": {
+                "projectPath": "C:\\Users\\xaiow2\\Documents\\GitHub\\test001\\Sheng.SQLite.Plus-master\\Sheng.SQLite.Plus\\Sheng.SQLite.Plus.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -60,6 +64,10 @@
             "System.Data.SQLite.Core": {
               "target": "Package",
               "version": "[1.0.111, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
             }
           },
           "imports": [
@@ -68,6 +76,17 @@
           "assetTargetFallback": true,
           "warn": true
         }
+      }
+    },
+    "C:\\Users\\xaiow2\\Documents\\GitHub\\test001\\Sheng.SQLite.Plus-master\\Sheng.SQLite.Plus\\Sheng.SQLite.Plus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\xaiow2\\Documents\\GitHub\\test001\\Sheng.SQLite.Plus-master\\Sheng.SQLite.Plus\\Sheng.SQLite.Plus.csproj",
+        "projectName": "Sheng.SQLite.Plus",
+        "projectPath": "C:\\Users\\xaiow2\\Documents\\GitHub\\test001\\Sheng.SQLite.Plus-master\\Sheng.SQLite.Plus\\Sheng.SQLite.Plus.csproj"
+      },
+      "frameworks": {
+        "net461": {}
       }
     }
   }

@@ -23,3 +23,12 @@ C:\Users\xaiow2\Documents\GitHub\test001\PersonalSite001\obj\Debug\netcoreapp2.1
 C:\Users\xaiow2\Documents\GitHub\test001\PersonalSite001\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
 C:\Users\xaiow2\Documents\GitHub\test001\PersonalSite001\obj\Debug\netcoreapp2.1\PersonalSite001.RazorTargetAssemblyInfo.cache
 C:\Users\xaiow2\Documents\GitHub\test001\PersonalSite001\obj\Debug\netcoreapp2.1\PersonalSite001.RazorTargetAssemblyInfo.cs
+C:\Users\xaiow2\Documents\GitHub\test001\PersonalSite001\bin\Debug\netcoreapp2.1\PersonalSite001.pdb
+C:\Users\xaiow2\Documents\GitHub\test001\PersonalSite001\bin\Debug\netcoreapp2.1\PersonalSite001.Views.dll
+C:\Users\xaiow2\Documents\GitHub\test001\PersonalSite001\bin\Debug\netcoreapp2.1\PersonalSite001.Views.pdb
+C:\Users\xaiow2\Documents\GitHub\test001\PersonalSite001\obj\Debug\netcoreapp2.1\PersonalSite001.Views.pdb
+C:\Users\xaiow2\Documents\GitHub\test001\PersonalSite001\obj\Debug\netcoreapp2.1\PersonalSite001.dll
+C:\Users\xaiow2\Documents\GitHub\test001\PersonalSite001\obj\Debug\netcoreapp2.1\PersonalSite001.pdb
+C:\Users\xaiow2\Documents\GitHub\test001\PersonalSite001\obj\Debug\netcoreapp2.1\PersonalSite001.csproj.CopyComplete
+C:\Users\xaiow2\Documents\GitHub\test001\PersonalSite001\bin\Debug\netcoreapp2.1\Sheng.SQLite.Plus.dll
+C:\Users\xaiow2\Documents\GitHub\test001\PersonalSite001\bin\Debug\netcoreapp2.1\Sheng.SQLite.Plus.pdb
