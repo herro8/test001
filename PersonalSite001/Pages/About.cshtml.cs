@@ -13,7 +13,6 @@ namespace PersonalSite001.Pages
     {
         public string Message { get; set; }
 
-        private SQLiteConnection _connection;
         private readonly IHostingEnvironment _hostingEnvironment;
         private DatabaseWrapper _database;
         private string _conn_str;
@@ -37,7 +36,10 @@ namespace PersonalSite001.Pages
 
             Message = "Insert Done";
           
+            List<PeopleEntity> list=new List<PeopleEntity>();
 
+            var _result= list.Where(p => p.PName.StartsWith("zhangsan"));
+            
         }
     }
 }

@@ -6,7 +6,6 @@ using System.Configuration;
 using System.Data;
 using System.Data.Common;
 using System.Data.SQLite;
-using System.Data.SQLite;
 using System.Diagnostics;
 using System.Linq;
 using System.Text;
